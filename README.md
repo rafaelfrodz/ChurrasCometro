@@ -1,8 +1,8 @@
 # ChurrasCometro - Desafio
 
-# Uma aplicação simples que calcula a quantidade de carne e bebidas para um churrasco
+# Sobre o projeto
 
-Projeto desenvolvido durante o curso do ProgramadorBr.
+Uma aplicação simples que calcula a quantidade de carne e bebidas para um churrasco. [Clique aqui para acessar a página](https://rafaelfrodz.github.io/Churrascometro/)
 
 ## Objetivo
 
